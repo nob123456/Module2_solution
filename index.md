@@ -1,4 +1,4 @@
-<!Doctype HTML>
+
 <html>
 	<title>Home</title>
 	<meta charset="utf-8">
